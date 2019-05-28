@@ -1,7 +1,9 @@
+package RockPaperScissorGame;
+
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
 public class RockPaperScissorGame {
     public static String getResult(String computerChoice, String playerChoice) {
